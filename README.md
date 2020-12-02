@@ -1,4 +1,4 @@
 ## Mein erstes Git Repositorium 
 
-Author: Daniela Mayer
-
+- Author: Daniela Mayer
+- Date: 2020-12-02
