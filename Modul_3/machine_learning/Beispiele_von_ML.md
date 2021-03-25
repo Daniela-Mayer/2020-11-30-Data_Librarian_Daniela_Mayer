@@ -1,0 +1,16 @@
+Beispiele ML im beruflichen oder privaten Alltag und mögliche zugehörige maschinelle Verfahren:
+    - Automatische Sacherschließung (Klassifikatorisch und verbal)
+    - Lese- / Ausleihempfehlungen anhand der letzten Suchen oder Entleihungen (evtl. beim Browsing)
+    - Erwerbungsvorschläge bei z.B. Vielausleihen
+    - Autocomplete-Funktion beim Suchen
+    - Website-Optimierung
+    - Evtl. automatische Ergänzung von nicht vollständigen Metadaten?
+    - Wettervorhersagen
+    - Verkehr (Vorhersagen, autonomes Fahren...)
+    - Online-Werbung
+    - Digitale Assistenten
+    - Krankheitsdiagnostik
+    - Manipulation von Bildern (z.B. Gesichtern) und Stimmen
+    - politische Propaganda 
+    - Zensur
+    - Überwachung
